@@ -3,10 +3,11 @@ Alarms every hour with rooster sound (for nth hour n time rooster alert Ex. 5th 
 This program uses RTC library and module for realtime clock and PCM library for playing alarm sound.
 
 #Components used
-Arduino UNO
-RTC DS3231 Module
-5V Amplifier circuit
-Speaker
+
+* Arduino UNO
+* RTC DS3231 Module
+* 5V Amplifier circuit
+* Speaker
 
 Power supply 5V adapter.
 
